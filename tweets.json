@@ -1,0 +1,1546 @@
+{
+    "data": [
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 6
+            },
+            "text": "Today’s updates:\n•Got stuck in with the book ‘Designing Machine Learning Systems’ 📕 \n•Came up with a new idea for a small project (RAG, MCP, stay tuned) 👀 \n•Got rate limited by X API 😡 \n\nHappy Tuesday! 😁",
+            "id": "1945210638629777433",
+            "created_at": "2025-07-15T19:55:31.000Z",
+            "edit_history_tweet_ids": [
+                "1945210638629777433"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 13
+            },
+            "text": "Quick snack then back to AI https://t.co/LZuE4nSwlO",
+            "id": "1945175106059489342",
+            "created_at": "2025-07-15T17:34:19.000Z",
+            "edit_history_tweet_ids": [
+                "1945175106059489342"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 178,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @KevinNaughtonJr: software engineering managers are more at risk of being replaced by AI than software engineers",
+            "id": "1945160092568985840",
+            "created_at": "2025-07-15T16:34:40.000Z",
+            "edit_history_tweet_ids": [
+                "1945160092568985840"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 41
+            },
+            "text": "@sriniously This is lowkey scary",
+            "id": "1945157914286592326",
+            "created_at": "2025-07-15T16:26:00.000Z",
+            "edit_history_tweet_ids": [
+                "1945157914286592326"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 60
+            },
+            "text": "MUST READ … VERY INTERESTING! https://t.co/tmByHzJ550",
+            "id": "1945152438337503317",
+            "created_at": "2025-07-15T16:04:15.000Z",
+            "edit_history_tweet_ids": [
+                "1945152438337503317"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 30
+            },
+            "text": "Signed up to the hackathon ✅\n\nAn exciting month of creation ahead!! https://t.co/2SQdlYEzho",
+            "id": "1945152001517740197",
+            "created_at": "2025-07-15T16:02:30.000Z",
+            "edit_history_tweet_ids": [
+                "1945152001517740197"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 10
+            },
+            "text": "Earlier this morning, I was catching up on Claude’s Vending Machine test 🍫🧠 (‘Project Vend’).\n\nCurious to see how other models stack up 🤔",
+            "id": "1945089027046068440",
+            "created_at": "2025-07-15T11:52:16.000Z",
+            "edit_history_tweet_ids": [
+                "1945089027046068440"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 79
+            },
+            "text": "@sriniously 👏🏽",
+            "id": "1944861751138509107",
+            "created_at": "2025-07-14T20:49:09.000Z",
+            "edit_history_tweet_ids": [
+                "1944861751138509107"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 24
+            },
+            "text": "Great point made here.\n\nTrue intelligence should be able to withstand a user *wrongly* asserting something.\n\nAI is moving at great pace (Which is amazing!!) BUT there’s still a long way to go!\n\nPrompt injection, sycophancy and hallucinations are all things we’ll need to overcome. https://t.co/TMgTPuniqy",
+            "id": "1944860197501198690",
+            "created_at": "2025-07-14T20:42:59.000Z",
+            "edit_history_tweet_ids": [
+                "1944860197501198690"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 11
+            },
+            "text": "@buildinpublic I’m taking this week to revisit AI fundamentals — leaning into the FastAI course for a more hands-on, less math-heavy approach. 🧠💻 Just building solid foundations and soaking up as much as I can. 🚀📚",
+            "id": "1944858145547030810",
+            "created_at": "2025-07-14T20:34:50.000Z",
+            "edit_history_tweet_ids": [
+                "1944858145547030810"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 92,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @_philschmid: Gemini Embeddings General Available! First Gemini Embedding model (`gemini-embedding-001`) now available for production us…",
+            "id": "1944855318103781717",
+            "created_at": "2025-07-14T20:23:36.000Z",
+            "edit_history_tweet_ids": [
+                "1944855318103781717"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 32,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @arpit_bhayani: 2015: everyone built a to-do app.\n2025: everyone is building an AI interviewer.",
+            "id": "1944855116328395106",
+            "created_at": "2025-07-14T20:22:48.000Z",
+            "edit_history_tweet_ids": [
+                "1944855116328395106"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 14
+            },
+            "text": "Never really got math in school 🤯\nBut seeing it broken down like this in code just clicks 💡\nWay easier to visualise and actually interpret — maybe it’s just me? 😅\n#JavaScript #LinearAlgebra #MathInCode #AI #LearningInPublic",
+            "id": "1944845157230370900",
+            "created_at": "2025-07-14T19:43:13.000Z",
+            "edit_history_tweet_ids": [
+                "1944845157230370900"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 19
+            },
+            "text": "After an eventful week ✨, it’s time to get back to fundamentals 📚\nPushing forward with the #FastAI course 🚀\nLet’s see how far we can get! 🔥\n#MachineLearning #DeepLearning #AI #100DaysOfCode #TechJourney #LearningInPublic 🤖",
+            "id": "1944783561455784328",
+            "created_at": "2025-07-14T15:38:28.000Z",
+            "edit_history_tweet_ids": [
+                "1944783561455784328"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 15
+            },
+            "text": "Was reflecting on last week’s AI news earlier today.\n\nWOW that was a lot!",
+            "id": "1944726781669540299",
+            "created_at": "2025-07-14T11:52:50.000Z",
+            "edit_history_tweet_ids": [
+                "1944726781669540299"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 17
+            },
+            "text": "I like the look of this! https://t.co/5Qmp6H3c0x",
+            "id": "1944497201230581784",
+            "created_at": "2025-07-13T20:40:34.000Z",
+            "edit_history_tweet_ids": [
+                "1944497201230581784"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 19
+            },
+            "text": "✅ Weekend Wrap-Up\nAll in all, stayed active and curious this weekend. Didn’t cover everything, but made progress — and that’s what counts. Continuous learning always! 🚀\n\n#AIlearning #ProgressNotPerfection #BuildInPublic",
+            "id": "1944469687439679917",
+            "created_at": "2025-07-13T18:51:14.000Z",
+            "edit_history_tweet_ids": [
+                "1944469687439679917"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 21
+            },
+            "text": "🤖 Claude Code (Hooks + Planning)\nDidn’t get around to this one — saving it for later!\n\n#ClaudeAI #AIlearning #WeekendGoals",
+            "id": "1944469502022009314",
+            "created_at": "2025-07-13T18:50:30.000Z",
+            "edit_history_tweet_ids": [
+                "1944469502022009314"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 40
+            },
+            "text": "🎙️ Exploring AI Content Creation\nTried a podcast creator on @huggingface + made a few Veo 3 videos — super impressed! 🤯 Just need to pace my credits😅\nAlso skimmed some light articles. This one was more fun than deep learning, and I loved it.\n#AIContent #Veo3 #WeekendExperiments",
+            "id": "1944469219405595029",
+            "created_at": "2025-07-13T18:49:23.000Z",
+            "edit_history_tweet_ids": [
+                "1944469219405595029"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 26
+            },
+            "text": "📚 FastAI Progress\nWrapped up another chapter of the FastAI course this weekend! Really appreciate how it focuses more on intuition than heavy math — makes the concepts click better 🔍✨\nTaking it slow but definitely taking it all in. Loving the journey so far!#FastAI #AIlearning",
+            "id": "1944468109299257585",
+            "created_at": "2025-07-13T18:44:58.000Z",
+            "edit_history_tweet_ids": [
+                "1944468109299257585"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 23
+            },
+            "text": "🔍 ML System Design Update\nI went through all the free content from Educative’s course (didn’t realize the full version was paid 😅). To fill the gap, I watched some solid YouTube breakdowns instead — still got the insights I needed! ✅\n\n#MLSystemDesign #WeekendLearning",
+            "id": "1944467285441470544",
+            "created_at": "2025-07-13T18:41:41.000Z",
+            "edit_history_tweet_ids": [
+                "1944467285441470544"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @thisguyknowsai: Every AI model has a superpower.\n\nYou just need to know who does what:\n\n• GPT: storytelling &amp; style\n• Gemini: vision &amp;…",
+            "id": "1944375048166379665",
+            "created_at": "2025-07-13T12:35:10.000Z",
+            "edit_history_tweet_ids": [
+                "1944375048166379665"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 7
+            },
+            "text": "@yacineMTB Absolutely!\nNo doubt!",
+            "id": "1944374814249984379",
+            "created_at": "2025-07-13T12:34:15.000Z",
+            "edit_history_tweet_ids": [
+                "1944374814249984379"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 44
+            },
+            "text": "VEO-3 one month Free Trial &gt;&gt;&gt;&gt;&gt;\n\nThese credits won’t last long! (Just need to remember to cancel the subscription 😅!!!).",
+            "id": "1944145182624297169",
+            "created_at": "2025-07-12T21:21:46.000Z",
+            "edit_history_tweet_ids": [
+                "1944145182624297169"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 5,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 69
+            },
+            "text": "Here are my AI/ML learning goals for the weekend:\n\n• Finish Educative’s ML System Design course\n• Continue the FastAI course\n• Explore AI content creation (Shorts/Podcasts via HuggingFace &amp; Veo-3)\n• Try Claude Code (Hooks + Planning Mode)\n\nFind out how many get done tomorrow!",
+            "id": "1943912871408415185",
+            "created_at": "2025-07-12T05:58:39.000Z",
+            "edit_history_tweet_ids": [
+                "1943912871408415185"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 8
+            },
+            "text": "@SherryYanJiang LOUDER!!!",
+            "id": "1943757433484325263",
+            "created_at": "2025-07-11T19:41:00.000Z",
+            "edit_history_tweet_ids": [
+                "1943757433484325263"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 12
+            },
+            "text": "@ItsPeterDesign Bottom",
+            "id": "1943757318396539256",
+            "created_at": "2025-07-11T19:40:32.000Z",
+            "edit_history_tweet_ids": [
+                "1943757318396539256"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 60
+            },
+            "text": "@Shri_73_ I’m a bit rusty but yes!! 🤝🏽",
+            "id": "1943757141044535412",
+            "created_at": "2025-07-11T19:39:50.000Z",
+            "edit_history_tweet_ids": [
+                "1943757141044535412"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 2
+            },
+            "text": "@_trish_xD Gym and badminton.\nHave to stay active.\n\nIt’s intense but also energises me for technical stuff.\n\nBalance is 🔑",
+            "id": "1943757030990209241",
+            "created_at": "2025-07-11T19:39:24.000Z",
+            "edit_history_tweet_ids": [
+                "1943757030990209241"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 54
+            },
+            "text": "@Priyans66638572 Keep working!",
+            "id": "1943696658144907338",
+            "created_at": "2025-07-11T15:39:30.000Z",
+            "edit_history_tweet_ids": [
+                "1943696658144907338"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 2
+            },
+            "text": "@zekramu But prompting alone isn’t enough. You also need the ability to interpret, build on, and challenge what the model gives you.\nThink of it as a tool — powerful on its own, but game-changing when combined with domain knowledge, critical thinking, and iteration.",
+            "id": "1943687315509190902",
+            "created_at": "2025-07-11T15:02:22.000Z",
+            "edit_history_tweet_ids": [
+                "1943687315509190902"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 3
+            },
+            "text": "@zekramu Prompt engineering is a valuable skill — but it shouldn’t exist in isolation.\nWithout a good prompt, you won’t get meaningful or accurate output from an LLM.",
+            "id": "1943687247678640607",
+            "created_at": "2025-07-11T15:02:06.000Z",
+            "edit_history_tweet_ids": [
+                "1943687247678640607"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 6
+            },
+            "text": "@enggirlfriend Generative UI is new but promising.\nWorth exploring tools like:\n• CoPilotKit – uses AG-UI &amp; Agentic AI to render UI\n• LangChain – lets agents choose &amp; use UI components via props\n\nExciting space!",
+            "id": "1943558018144354737",
+            "created_at": "2025-07-11T06:28:35.000Z",
+            "edit_history_tweet_ids": [
+                "1943558018144354737"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 54,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @cline: Trend we're seeing from some of our power users:\n\n&gt; use gemini 2.5 pro for Plan mode\n&gt; use sonnet-4 for Act mode\n\nWhy?\n\nWith it'…",
+            "id": "1943433992117850243",
+            "created_at": "2025-07-10T22:15:45.000Z",
+            "edit_history_tweet_ids": [
+                "1943433992117850243"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 2
+            },
+            "text": "@ryancarson Sounds interesting",
+            "id": "1943350385567240529",
+            "created_at": "2025-07-10T16:43:32.000Z",
+            "edit_history_tweet_ids": [
+                "1943350385567240529"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 23
+            },
+            "text": "@iuditg Facts - If you know how to leverage it then there’s so many benefits.\n\nIf you don’t know how to ACTUALLY use it &amp; you rely too much on it/don’t understand what it’s doing then it’s not going to end well.",
+            "id": "1943266123186933972",
+            "created_at": "2025-07-10T11:08:42.000Z",
+            "edit_history_tweet_ids": [
+                "1943266123186933972"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 12
+            },
+            "text": "@melqtx Soft skills &gt;&gt;&gt;\nPutting yourself out there into new opportunities &gt;&gt;&gt;\nConstant learning &gt;&gt;&gt;",
+            "id": "1943208995344323021",
+            "created_at": "2025-07-10T07:21:42.000Z",
+            "edit_history_tweet_ids": [
+                "1943208995344323021"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 8
+            },
+            "text": "@yoheinakajima Systematic “vibe coding” is the way forward.\n\nGive full project context, but ask for just 1 component at a time.\n\nReview after each piece is built.\n\nWay better than spamming prompts and hoping for magic.\n\nIntentional &gt; chaotic prompting.",
+            "id": "1943191396363702305",
+            "created_at": "2025-07-10T06:11:46.000Z",
+            "edit_history_tweet_ids": [
+                "1943191396363702305"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 74,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @sishaar: Grok 4 is here. Head and shoulders above the rest https://t.co/JeulHvSUfc",
+            "id": "1943181312577216619",
+            "created_at": "2025-07-10T05:31:42.000Z",
+            "edit_history_tweet_ids": [
+                "1943181312577216619"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 184,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @NickADobos: Grok 4 announcement recap\n\nI watched 1 hour of an awkward rambling demo so you don’t have to!\n\n- 2 new models, grok 4 and g…",
+            "id": "1943181100261490736",
+            "created_at": "2025-07-10T05:30:51.000Z",
+            "edit_history_tweet_ids": [
+                "1943181100261490736"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 1438
+            },
+            "text": "@NickADobos Thanks for summarising !!",
+            "id": "1943181087158477308",
+            "created_at": "2025-07-10T05:30:48.000Z",
+            "edit_history_tweet_ids": [
+                "1943181087158477308"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 18
+            },
+            "text": "From my call with the Cursor team + a few research papers I’ve been digging into, one theme keeps coming up:\n\nExtending context windows &gt; fine-tuning.\n\nJust came across YaRN and RoPE (so much to learn 😅) — the importance of scaling context windows is becoming clearer by the day!",
+            "id": "1943180686690574336",
+            "created_at": "2025-07-10T05:29:12.000Z",
+            "edit_history_tweet_ids": [
+                "1943180686690574336"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 11
+            },
+            "text": "•Trained on 11T tokens.\n•Multilingual.\n•Context window up to 128k (Long Context up to 256k).\n•Trained on synthetic data!\n•Tool Support ✅",
+            "id": "1943029153160400981",
+            "created_at": "2025-07-09T19:27:04.000Z",
+            "edit_history_tweet_ids": [
+                "1943029153160400981"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 16,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @ai_for_success: 🚨 Two major updates related to OpenAI:\n\n&gt; OpenAI is reportedly close to launching its own AI-powered web browser.\n&gt; An…",
+            "id": "1943023642927128856",
+            "created_at": "2025-07-09T19:05:10.000Z",
+            "edit_history_tweet_ids": [
+                "1943023642927128856"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 13
+            },
+            "text": "@zekramu So is being stuck on the same bug for hours on end!\n\nI think “just accepting cursor’s outputs blindly” is indeed soulless however it’s definitely a powerful tool which *when used correctly* can built things fast and save time!!",
+            "id": "1943013976150872450",
+            "created_at": "2025-07-09T18:26:46.000Z",
+            "edit_history_tweet_ids": [
+                "1943013976150872450"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 22
+            },
+            "text": "We’re just getting started!! https://t.co/ZTgfkxmtgS",
+            "id": "1943013601876545691",
+            "created_at": "2025-07-09T18:25:16.000Z",
+            "edit_history_tweet_ids": [
+                "1943013601876545691"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 5
+            },
+            "text": "@AdityaJiRathore Anytime!",
+            "id": "1942990295030800531",
+            "created_at": "2025-07-09T16:52:40.000Z",
+            "edit_history_tweet_ids": [
+                "1942990295030800531"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 185
+            },
+            "text": "Today’s Learning: SmolLM3 @huggingface https://t.co/TndVmcB1IH",
+            "id": "1942989507579597187",
+            "created_at": "2025-07-09T16:49:32.000Z",
+            "edit_history_tweet_ids": [
+                "1942989507579597187"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 46
+            },
+            "text": "Very interesting 👀 https://t.co/v49g5DtZoI",
+            "id": "1942988960713895997",
+            "created_at": "2025-07-09T16:47:21.000Z",
+            "edit_history_tweet_ids": [
+                "1942988960713895997"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 12
+            },
+            "text": "@kimmonismus “Everyone will be able to create their own films with AI” - That’s amazing!!!",
+            "id": "1942982040447856684",
+            "created_at": "2025-07-09T16:19:51.000Z",
+            "edit_history_tweet_ids": [
+                "1942982040447856684"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 56
+            },
+            "text": "@adityatwtt •I’ve done loads of JavaScript, React and Frontend in the past.\n•I used to publish my own Tech blog.\n•I tried Android development once a long time ago (LONG story behind that!).\n•DevOps and Systems Design are as interesting as ever.\n\nLet’s Connect!!",
+            "id": "1942981665170870480",
+            "created_at": "2025-07-09T16:18:22.000Z",
+            "edit_history_tweet_ids": [
+                "1942981665170870480"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 122
+            },
+            "text": "@PrajwalTomar_ Thanks for sharing, will definitely try this out!!!",
+            "id": "1942958663708168692",
+            "created_at": "2025-07-09T14:46:58.000Z",
+            "edit_history_tweet_ids": [
+                "1942958663708168692"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 4
+            },
+            "text": "@0x45o Enjoy it (I wish I had one!)",
+            "id": "1942930202927235546",
+            "created_at": "2025-07-09T12:53:52.000Z",
+            "edit_history_tweet_ids": [
+                "1942930202927235546"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 23,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @Saboo_Shubham_: Grok 4\nGemini 3 \nClaude 4.5 \n\nNext few weeks will be the most interesting in AI. https://t.co/ar9H9cbhZx",
+            "id": "1942918010219434284",
+            "created_at": "2025-07-09T12:05:25.000Z",
+            "edit_history_tweet_ids": [
+                "1942918010219434284"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 16
+            },
+            "text": "Announcement day!!! https://t.co/A8C7dYWa1v",
+            "id": "1942908854972436738",
+            "created_at": "2025-07-09T11:29:03.000Z",
+            "edit_history_tweet_ids": [
+                "1942908854972436738"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 56,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @thisguyknowsai: So, I tested Grok and Claude with the same high-stakes prompts.\n\nOne of them outperformed the other in a surprising way…",
+            "id": "1942908030577766601",
+            "created_at": "2025-07-09T11:25:46.000Z",
+            "edit_history_tweet_ids": [
+                "1942908030577766601"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 16
+            },
+            "text": "@trikcode Absolutely!🤝🏽",
+            "id": "1942907333153001644",
+            "created_at": "2025-07-09T11:23:00.000Z",
+            "edit_history_tweet_ids": [
+                "1942907333153001644"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 20
+            },
+            "text": "@buildwithRavi @ShruPosts 🤣🤣🤣",
+            "id": "1942907275607228467",
+            "created_at": "2025-07-09T11:22:46.000Z",
+            "edit_history_tweet_ids": [
+                "1942907275607228467"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 10
+            },
+            "text": "Looks like this video was made for me https://t.co/skkuaUaXWK !!!",
+            "id": "1942906878394065405",
+            "created_at": "2025-07-09T11:21:11.000Z",
+            "edit_history_tweet_ids": [
+                "1942906878394065405"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 13
+            },
+            "text": "@Abhinavstwt Next JS",
+            "id": "1942877610704269570",
+            "created_at": "2025-07-09T09:24:53.000Z",
+            "edit_history_tweet_ids": [
+                "1942877610704269570"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 395,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @KartikeyStack: That hurts https://t.co/UMK2AX7ul8",
+            "id": "1942822174005285193",
+            "created_at": "2025-07-09T05:44:36.000Z",
+            "edit_history_tweet_ids": [
+                "1942822174005285193"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 11
+            },
+            "text": "@VraserX No matter who wins, I’m just enjoying the race so far 🔥",
+            "id": "1942816106835558764",
+            "created_at": "2025-07-09T05:20:30.000Z",
+            "edit_history_tweet_ids": [
+                "1942816106835558764"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 47
+            },
+            "text": "@gus_tiffer @AlexFinnX Nice one 👏🏽",
+            "id": "1942815383334912236",
+            "created_at": "2025-07-09T05:17:37.000Z",
+            "edit_history_tweet_ids": [
+                "1942815383334912236"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 13
+            },
+            "text": "Today’s the day! https://t.co/oNFuyxpT6f",
+            "id": "1942815079939887397",
+            "created_at": "2025-07-09T05:16:25.000Z",
+            "edit_history_tweet_ids": [
+                "1942815079939887397"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 60,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @ai_for_success: 🚨 Gemini 3.0 details are surfacing slowly. Let's see when it becomes a reality.\nOne thing is sure, Google is not slowin…",
+            "id": "1942814110833381808",
+            "created_at": "2025-07-09T05:12:34.000Z",
+            "edit_history_tweet_ids": [
+                "1942814110833381808"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 8
+            },
+            "text": "@iannuttall Thankfully, I’ve only faced the flashing terminal bug once so far!",
+            "id": "1942813196395372697",
+            "created_at": "2025-07-09T05:08:56.000Z",
+            "edit_history_tweet_ids": [
+                "1942813196395372697"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 11,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @kregenrek: Cursor rules often get overlooked during development, so I follow this process.\n\nFirst, I ask gpt deep research for latest b…",
+            "id": "1942810652705227023",
+            "created_at": "2025-07-09T04:58:49.000Z",
+            "edit_history_tweet_ids": [
+                "1942810652705227023"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 10
+            },
+            "text": "LOUDER https://t.co/HCEtWVIec3",
+            "id": "1942810299213533436",
+            "created_at": "2025-07-09T04:57:25.000Z",
+            "edit_history_tweet_ids": [
+                "1942810299213533436"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 71
+            },
+            "text": "@cline Interesting 🤔",
+            "id": "1942809970963055057",
+            "created_at": "2025-07-09T04:56:07.000Z",
+            "edit_history_tweet_ids": [
+                "1942809970963055057"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 9
+            },
+            "text": "@Param_eth The hype behind Web3 just seemed to disappear one day.\n\nHope it comes back!",
+            "id": "1942689176740323415",
+            "created_at": "2025-07-08T20:56:07.000Z",
+            "edit_history_tweet_ids": [
+                "1942689176740323415"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 10
+            },
+            "text": "@gabriel__xyz Claude Code.\nCursor’s great but I recently purchased Claude Code and I’m loving it!!!",
+            "id": "1942682848030290057",
+            "created_at": "2025-07-08T20:30:58.000Z",
+            "edit_history_tweet_ids": [
+                "1942682848030290057"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 29,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @svpino: Most people haven't realized yet that AI agents will change the world.\n\nWe are moving slowly right now, but it's getting faster…",
+            "id": "1942681109726191755",
+            "created_at": "2025-07-08T20:24:04.000Z",
+            "edit_history_tweet_ids": [
+                "1942681109726191755"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 17
+            },
+            "text": "Cursor is building infra for AI-native development: clean context windows, docs ingestion, audit flows via Ask Mode, and even a Bug Bot. Real agency, not just completion. This convo confirmed it: they’re shaping what modern dev environments will look like.\n#CursorIDE #AIdev",
+            "id": "1942646116186825025",
+            "created_at": "2025-07-08T18:05:01.000Z",
+            "edit_history_tweet_ids": [
+                "1942646116186825025"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 16
+            },
+            "text": "You can define project-specific behavior via “Rules” in .*.mdc — a game-changer. Think: intelligent handling of Figma edits, Git commits, or API calls. Agent mode even supports background and terminal agents that act within context to change your code.",
+            "id": "1942646009449816080",
+            "created_at": "2025-07-08T18:04:35.000Z",
+            "edit_history_tweet_ids": [
+                "1942646009449816080"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 12
+            },
+            "text": "I’m still experimenting with “agency”/“model temperature” and it’s certainly interesting to see how 1 prompt can trigger vastly different responses!",
+            "id": "1942645660551110950",
+            "created_at": "2025-07-08T18:03:12.000Z",
+            "edit_history_tweet_ids": [
+                "1942645660551110950"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 27
+            },
+            "text": "Cursor Chat takes it further: multi-file awareness, real-time code indexing (including diffs), and thoughtful model selection (curiosity vs. agency). Claude 3.7, o3, and Claude 4 Sonnet each bring different personalities to the table. Context engineering &gt; prompt engineering.",
+            "id": "1942645189966979487",
+            "created_at": "2025-07-08T18:01:20.000Z",
+            "edit_history_tweet_ids": [
+                "1942645189966979487"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 18
+            },
+            "text": "Cursor’s thesis: context is everything. Bigger windows &gt; finetuning. Their Fusion model powers inline Tab and Ctrl+K edits — fast, model-selectable, and context-aware. You can highlight code, choose your model, and define the nature of the response. Surgical UX.",
+            "id": "1942645120068903421",
+            "created_at": "2025-07-08T18:01:03.000Z",
+            "edit_history_tweet_ids": [
+                "1942645120068903421"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 75
+            },
+            "text": "Just had a powerful call with the @cursor_ai team — Max and Mark gave a deep tour. Cursor isn’t “just another AI IDE.” It’s a full-context, agentic development platform. Think: custom rules, deep indexing, model orchestration, and terminal-capable agents. 🧵",
+            "id": "1942644936597221803",
+            "created_at": "2025-07-08T18:00:20.000Z",
+            "edit_history_tweet_ids": [
+                "1942644936597221803"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 70
+            },
+            "text": "@svpino Facts, aimlessly vibe-coding is a recipe for disaster!\n\nAfter each prompt, we must assess the LLM’s output.\n\n“Is that really correct?”\n“Is that what I want to happen?”\n“Why had it added this?”\n“Why his it removed that?”…",
+            "id": "1942556800609358205",
+            "created_at": "2025-07-08T12:10:06.000Z",
+            "edit_history_tweet_ids": [
+                "1942556800609358205"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 17
+            },
+            "text": "“This AI tool …”\n\nSo many new tools.\n\nWhat about the concepts/protocols behind them? 🤔",
+            "id": "1942556388984553884",
+            "created_at": "2025-07-08T12:08:28.000Z",
+            "edit_history_tweet_ids": [
+                "1942556388984553884"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 6
+            },
+            "text": "@koltregaskes Cheaper prices 😅\n\nAll jokes aside, less hallucinations !",
+            "id": "1942556081252884766",
+            "created_at": "2025-07-08T12:07:15.000Z",
+            "edit_history_tweet_ids": [
+                "1942556081252884766"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 6
+            },
+            "text": "@stijnnoorman Facts, it’s a tool that we should leverage in order to improve quality.",
+            "id": "1942555527055032762",
+            "created_at": "2025-07-08T12:05:03.000Z",
+            "edit_history_tweet_ids": [
+                "1942555527055032762"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 16
+            },
+            "text": "Anyone here used OpenRouter?\n\nWhat are your thoughts ?\n\n#ai #llm",
+            "id": "1942554828506529811",
+            "created_at": "2025-07-08T12:02:16.000Z",
+            "edit_history_tweet_ids": [
+                "1942554828506529811"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 15
+            },
+            "text": "N8N I Wish I’d known this sooner!\n\nWhen building AI Workflows with sub-workflows, not every sub workflow requires memory!\n\nAdding memory when it’s not needed results in “No sessionId found”.",
+            "id": "1942554557097382379",
+            "created_at": "2025-07-08T12:01:11.000Z",
+            "edit_history_tweet_ids": [
+                "1942554557097382379"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 168,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @omarsar0: Agentic RAG for Personalized Recommendation\n\nThis is a really good example of integrating agentic reasoning into RAG.\n\nLeads…",
+            "id": "1942537226203848771",
+            "created_at": "2025-07-08T10:52:19.000Z",
+            "edit_history_tweet_ids": [
+                "1942537226203848771"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 288,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @aaditsh: This guy literally built a prompt that can make any prompt 10x better https://t.co/E84LV2NFIX",
+            "id": "1942537170075476291",
+            "created_at": "2025-07-08T10:52:06.000Z",
+            "edit_history_tweet_ids": [
+                "1942537170075476291"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 9
+            },
+            "text": "The @DataCamp podcast (DataFramed).\nA perfect way to stay up to date with AI, while on a drive!",
+            "id": "1942473732007542846",
+            "created_at": "2025-07-08T06:40:01.000Z",
+            "edit_history_tweet_ids": [
+                "1942473732007542846"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 71,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @dr_cintas: Emergent 2.0 just dropped.   \n\nYou can now build apps, games, MCPs and extensions in 1 prompt. \n\nIt now has a security revie…",
+            "id": "1942452026467627106",
+            "created_at": "2025-07-08T05:13:46.000Z",
+            "edit_history_tweet_ids": [
+                "1942452026467627106"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 12,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @aaditsh: This guy collected 300+ MCP servers and open-sourced all of them https://t.co/CduDdvKHkb",
+            "id": "1942451779892891868",
+            "created_at": "2025-07-08T05:12:47.000Z",
+            "edit_history_tweet_ids": [
+                "1942451779892891868"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 23
+            },
+            "text": "@ScienceDegen @itsPaulAi I was on the fence about paying for AI, but I just switched to Claude Code a couple days ago — already feels worth it!",
+            "id": "1942296408804966683",
+            "created_at": "2025-07-07T18:55:24.000Z",
+            "edit_history_tweet_ids": [
+                "1942296408804966683"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 397,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @itsPaulAi: Friendly reminder that Gemini has a free alternative to Cursor\n\nYou can install Gemini Code Assist at no cost directly in VS…",
+            "id": "1942295940817105055",
+            "created_at": "2025-07-07T18:53:33.000Z",
+            "edit_history_tweet_ids": [
+                "1942295940817105055"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 264,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @Saboo_Shubham_: Google just released MCP Toolbox for Databases to build AI Agents with database access.\n\nIntegrate tools to your AI age…",
+            "id": "1942285621076037907",
+            "created_at": "2025-07-07T18:12:32.000Z",
+            "edit_history_tweet_ids": [
+                "1942285621076037907"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 151,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 0
+            },
+            "text": "RT @akshay_pachaar: Temperature in LLMs, clearly explained (with code):",
+            "id": "1942281497177628779",
+            "created_at": "2025-07-07T17:56:09.000Z",
+            "edit_history_tweet_ids": [
+                "1942281497177628779"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 4
+            },
+            "text": "@OfficialLoganK The pace is crazy, but exciting!\n\nNew concepts every week - Great to experiment with!!",
+            "id": "1942260681497358785",
+            "created_at": "2025-07-07T16:33:26.000Z",
+            "edit_history_tweet_ids": [
+                "1942260681497358785"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 22
+            },
+            "text": "If anyone has had success with CoPilotKit/AG UI Protocol then let’s connect!",
+            "id": "1942248108370358346",
+            "created_at": "2025-07-07T15:43:28.000Z",
+            "edit_history_tweet_ids": [
+                "1942248108370358346"
+            ]
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "bookmark_count": 0,
+                "impression_count": 22
+            },
+            "text": "UPDATE\n\nI got this working.\n\nBy default the docs were a bit confusing.\n\nAt the very bottom, they have a “use client components” section, honestly would’ve saved so much time!\n\nWith that being said, good progress made with Generative UI",
+            "id": "1942248032105381995",
+            "created_at": "2025-07-07T15:43:10.000Z",
+            "edit_history_tweet_ids": [
+                "1942248032105381995"
+            ]
+        }
+    ],
+    "meta": {
+        "next_token": "7140dibdnow9c7btw4e1buangtwnq5mrz9i8dz34xs1th",
+        "result_count": 96,
+        "newest_id": "1945210638629777433",
+        "oldest_id": "1942248032105381995"
+    }
+}

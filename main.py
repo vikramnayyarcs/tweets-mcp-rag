@@ -1,17 +1,6 @@
-import os
-from dotenv import load_dotenv
-from tweet_utils import fetch_and_cache_tweets
+import json
 
-load_dotenv(dotenv_path=".env.local")
-
-if __name__ == "__main__":
-    tweets = fetch_and_cache_tweets()
-    if tweets:
-        # If cached, tweets is a list of dicts; if fresh, it's a list of Tweepy objects
-        for tweet in tweets:
-            if isinstance(tweet, dict):
-                print(f"{tweet['created_at']}: {tweet['text']}")
-            else:
-                print(f"{tweet.created_at}: {tweet.text}")
-    else:
-        print("No tweets found.")
+with open('tweets.json', encoding='utf-8') as f:
+    data = json.load(f)
+    for tweet in data.get('data', []):
+        print(f"{tweet['created_at']} | {tweet['id']} | {tweet['text']}")
