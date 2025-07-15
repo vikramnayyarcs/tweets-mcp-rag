@@ -18,8 +18,7 @@ def fetch_and_cache_tweets():
         print(f"Using cached tweets from {latest_file}")
         with open(latest_file, encoding="utf-8") as f:
             reader = csv.DictReader(f)
-            for row in reader:
-                print(f"{row['created_at']}: {row['text']}")
+            tweets = list(reader)
     else:
         try:
             user = client.get_user(username="VikramNayyarCS")
@@ -34,9 +33,10 @@ def fetch_and_cache_tweets():
                 timestamp = datetime.now().strftime(TWEETS_FILENAME_FORMAT)
                 filename = os.path.join(TWEETS_DIR, timestamp)
                 save_tweets_to_csv(tweets, filename, TWEETS_DIR)
-                for tweet in tweets:
-                    print(f"{tweet.created_at}: {tweet.text}")
             else:
                 print("No tweets found.")
+                tweets = []
         except Exception as e:
             print(f"Error fetching tweets: {e}")
+            tweets = []
+    return tweets
