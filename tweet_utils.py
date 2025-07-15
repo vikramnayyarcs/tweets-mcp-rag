@@ -25,7 +25,7 @@ def fetch_and_cache_tweets():
             user_id = user.data.id
             tweets_response = client.get_users_tweets(
                 id=user_id,
-                max_results=10,
+                max_results=100,
                 tweet_fields=["created_at", "public_metrics"]
             )
             tweets = tweets_response.data
